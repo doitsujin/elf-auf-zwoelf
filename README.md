@@ -13,7 +13,7 @@ was not tested.
 
 Just download the latest [release](https://github.com/doitsujin/elf-auf-zwoelf/releases),
 copy the `d3d11.dll` next to the executable of the game you want to run, and start the game.
-Make sure to use the `x64` one for 64-bit games, and the `x86 one for 32-bit games.
+Make sure to use the `x64` one for 64-bit games, and the `x86` one for 32-bit games.
 
 If everything works correctly, you will most likely experience reduced performance compared
 to native D3D11, and in some cases rendering issues and/or driver crashes. Some games may
